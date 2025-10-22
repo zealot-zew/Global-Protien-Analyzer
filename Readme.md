@@ -62,8 +62,8 @@ food-analyzer/
 
 ```bash
 # 1. Clone the repository (or download the files)
-git clone https://zealot-zew/APP_project.git
-cd APP_project
+git clone https://github.com/zealot-zew/Global-Protien-Analyzer.git
+cd Global-Protien-Analyzer
 
 # 2. Create a virtual environment
 python -m venv .venv
